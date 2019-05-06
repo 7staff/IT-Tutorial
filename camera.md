@@ -31,7 +31,7 @@ When choosing a stand-alone camera, you want to look for one that has the highes
 
 JPEG compresses images which is a no-no when it comes to resolution. A camera that shoots raw gives the most flexibility when touching it up later because it doesn't compress it.
 
-[Back: ReadMe](https://github.com/7staff/Digital-Concept-Tutorial/blob/master/README.md)
+[Back: ReadMe](https://github.com/7staff/IT-Tutorial/blob/master/README.md)
 
 
-[Next: Digital Drawings](https://github.com/7staff/Digital-Concept-Tutorial/blob/master/DigitalDrawings.md)
+[Next: Digital Drawings](https://github.com/7staff/IT-Tutorial/blob/master/DigitalDrawings.md)
