@@ -22,7 +22,8 @@ Both of these are equally good for phone cameras. I guess if you will be taking 
 
 Here is a photo comparison
 ![alt text](https://www.thesun.co.uk/wp-content/uploads/2018/03/af-composite-phone-versus-11.jpg?strip=all&w=750)
-I personally like the iPhone's colors better.
+
+I personally like the iPhone's colors better. The samsung seems to put false brightness over the photo
 
 
 You have to be careful with what you do with these images. Sending them over text or email can compress the photo. When a photo compresses, it reduces the size... at the cost of the **resolution**.
