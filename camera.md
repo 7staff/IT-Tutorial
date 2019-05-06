@@ -12,7 +12,7 @@ Let's Compare
 
 
 
-|Phone   |iPhone X   | Galaxy s9  
+|Phone   |iPhone X   | Galaxy S9  
 |---|---|---
 | Image Resolution   | 4000 x 3000 | 4000 x 3000   
 | Front-Camera Resolution  | 7 MP  | 8 MP 
@@ -21,7 +21,7 @@ Let's Compare
 Both of these are equally good for phone cameras. I guess if you will be taking a lot of selfies then the Galaxy is a better choice.
 
 Here is a photo comparison
-![alt text](https://cdn.macrumors.com/article-new/2018/03/samsungiphoneclouds.jpg)
+![alt text](https://www.thesun.co.uk/wp-content/uploads/2018/03/af-composite-phone-versus-11.jpg?strip=all&w=750)
 I personally like the iPhone's colors better.
 
 
